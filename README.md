@@ -90,7 +90,7 @@ To use this project, first clone the repo on your device using the command below
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
 # Bill-of-material
-![alt text](https://github.com/contraprisma/weatherstation/doc/images/bill-of-material.png "Bill of material")
+![alt text](https://github.com/contraprisma/weatherstation/blob/main/doc/images/bill-of-material.png "Bill of material")
 [(Back to top)](#table-of-contents)
 
 # Usage
