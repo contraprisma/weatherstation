@@ -58,6 +58,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Project Title](#project-title)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
+- [Bill of materials](#bill-of-material)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
@@ -87,6 +88,10 @@ To use this project, first clone the repo on your device using the command below
 ```git init```
 
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
+
+# Bill-of-material
+![alt text](https://github.com/contraprisma/weatherstation/doc/images/bill-of-material.png "Bill of material")
+[(Back to top)](#table-of-contents)
 
 # Usage
 [(Back to top)](#table-of-contents)
