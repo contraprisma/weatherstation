@@ -60,15 +60,52 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Table of contents](#table-of-contents)
 - [Bill of materials](#bill-of-material)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Build](#build)
 - [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
 - [Footer](#footer)
+<!-- removed this - not sure 
+    - [Contribute](#contribute)
+    - [Sponsor](#sponsor)
+    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)-->
+
+# Bill-of-material
+![ESP32](./doc/images/esp32.png "Wemos D32 V1.0.0 - ESP32")
+[Wemos D32 V1.0.0 - ESP32](https://opencircuit.nl/product/Wemos-D32-V1.0.0-ESP32-CH340C-4MB-Flash)
+
+![OLED Display](./doc/images/display.png "0.96 OLED Display module")
+[0.96 OLED Display module](https://opencircuit.nl/product/0.96-OLED-Display-module-geel-blauw-I2C)
+
+![DHT22 sensor](./doc/images/dht22.png "DHT22 sensor")
+[DHT22 sensor](https://opencircuit.nl/product/dht22-luchtvochtigheid-en-temperatuur-sensor)
+
+![10KΩ Metalfilm Resistor](./doc/images/10k.png "10KΩ Metalfilm Resistor")
+[10KΩ Metalfilm Resistor](https://opencircuit.nl/product/10K%CE%A9-Metaalfilm-weerstand-1-4W-10-stuks)
+
+![Male-Male cables](./doc/images/cables.png "Male-Male 10cm cables")
+[Male-Male 10cm cables](https://opencircuit.nl/product/male-male-10-cm-bandkabel-40-stuks)
+
+![Breadboard](./doc/images/breadboard.png "Breadboard 830 point")
+[Breadboard 830 point](https://opencircuit.nl/product/breadboard-830-punten-wit)
+
+[(Back to top)](#table-of-contents)
+
+# Build
+Follow the steps to create the build for the Weatherstation on the Breadboard.
+Place the Wemos D32 V1.0.0 - ESP32 onto the breadboard in the middle on the left side with the power usb connector on teh left side.
+Insert the 0.96 OLED Display module into the breadboard next to the ESP32 on the right side.
+Next insert the DHT22 sensor into teh breadboard on the right of the display.
+Follow the instrauctions to connect the components up with the male-male cables.
+
+TODO: Add some more info here....
+
+[(Back to top)](#table-of-contents)
+
+<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Installation
+TODO: Add some more info here....
+
 [(Back to top)](#table-of-contents)
 
 <!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
@@ -89,16 +126,9 @@ To use this project, first clone the repo on your device using the command below
 
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
-# Bill-of-material
-![alt text](https://github.com/contraprisma/weatherstation/blob/main/doc/images/bill-of-material.png "Bill of material")
-[(Back to top)](#table-of-contents)
-
-# Usage
-[(Back to top)](#table-of-contents)
-
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
-
 # Development
+TODO: Add some more info here....DO WE ADD DEV INSTRUCTIONS HERE - about code workings?
+
 [(Back to top)](#table-of-contents)
 
 <!-- This is the place where you give instructions to developers on how to modify the code.
@@ -109,15 +139,15 @@ You could also give specific instructions to how they can setup their developmen
 
 Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
 
-# Contribute
-[(Back to top)](#table-of-contents)
+<!--# Contribute
+[(Back to top)](#table-of-contents)-->
 
 <!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
 
 Also this shows how you can add subsections within a section. -->
 
-### Sponsor
-[(Back to top)](#table-of-contents)
+<!--### Sponsor
+[(Back to top)](#table-of-contents)-->
 
 <!-- Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
 
@@ -125,8 +155,8 @@ You could add how people can sponsor your project in this section. Add your patr
 
 A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
 
-### Adding new features or fixing bugs
-[(Back to top)](#table-of-contents)
+<!--### Adding new features or fixing bugs
+[(Back to top)](#table-of-contents)-->
 
 <!-- This is to give people an idea how they can raise issues or feature requests in your projects. 
 
