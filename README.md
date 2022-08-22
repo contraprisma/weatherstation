@@ -99,6 +99,8 @@ Follow the instrauctions to connect the components up with the male-male cables.
 
 TODO: Add some more info here....
 
+![Breadboard build](./doc/images/breadboard-build.jpg "Breadboard build")
+
 [(Back to top)](#table-of-contents)
 
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
