@@ -99,7 +99,7 @@ Follow the instrauctions to connect the components up with the male-male cables.
 
 TODO: Add some more info here....
 
-![Breadboard build](./doc/images/breadboard-build.png "Breadboard build")
+![Breadboard build](./doc/images/breadboard-build.jpg "Breadboard build")
 
 [(Back to top)](#table-of-contents)
 
