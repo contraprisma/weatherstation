@@ -69,7 +69,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
     - [Sponsor](#sponsor)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)-->
 
-# Bill-of-material
+# Bill of Material
 ![ESP32](./doc/images/esp32.png "Wemos D32 V1.0.0 - ESP32")
 [Wemos D32 V1.0.0 - ESP32](https://opencircuit.nl/product/Wemos-D32-V1.0.0-ESP32-CH340C-4MB-Flash)
 
