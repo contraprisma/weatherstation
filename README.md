@@ -60,15 +60,52 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Table of contents](#table-of-contents)
 - [Bill of materials](#bill-of-material)
 - [Installation](#installation)
-<!--- [Usage](#usage)
-- [Development](#development)-->
-<!-- - [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)-->
+- [Build](#build)
+- [Development](#development)
+- [License](#license)
 - [Footer](#footer)
+<!-- removed this - not sure 
+    - [Contribute](#contribute)
+    - [Sponsor](#sponsor)
+    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)-->
+
+# Bill-of-material
+![ESP32](./doc/images/esp32.png "Wemos D32 V1.0.0 - ESP32")
+[Wemos D32 V1.0.0 - ESP32](https://opencircuit.nl/product/Wemos-D32-V1.0.0-ESP32-CH340C-4MB-Flash)
+
+![OLED Display](./doc/images/display.png "0.96 OLED Display module")
+[0.96 OLED Display module](https://opencircuit.nl/product/0.96-OLED-Display-module-geel-blauw-I2C)
+
+![DHT22 sensor](./doc/images/dht22.png "DHT22 sensor")
+[DHT22 sensor](https://opencircuit.nl/product/dht22-luchtvochtigheid-en-temperatuur-sensor)
+
+![10KΩ Metalfilm Resistor](./doc/images/10k.png "10KΩ Metalfilm Resistor")
+[10KΩ Metalfilm Resistor](https://opencircuit.nl/product/10K%CE%A9-Metaalfilm-weerstand-1-4W-10-stuks)
+
+![Male-Male cables](./doc/images/cables.png "Male-Male 10cm cables")
+[Male-Male 10cm cables](https://opencircuit.nl/product/male-male-10-cm-bandkabel-40-stuks)
+
+![Breadboard](./doc/images/breadboard.png "Breadboard 830 point")
+[Breadboard 830 point](https://opencircuit.nl/product/breadboard-830-punten-wit)
+
+[(Back to top)](#table-of-contents)
+
+# Build
+Follow the steps to create the build for the Weatherstation on the Breadboard.
+Place the Wemos D32 V1.0.0 - ESP32 onto the breadboard in the middle on the left side with the power usb connector on teh left side.
+Insert the 0.96 OLED Display module into the breadboard next to the ESP32 on the right side.
+Next insert the DHT22 sensor into teh breadboard on the right of the display.
+Follow the instrauctions to connect the components up with the male-male cables.
+
+TODO: Add some more info here....
+
+[(Back to top)](#table-of-contents)
+
+<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Installation
+TODO: Add some more info here....
+
 [(Back to top)](#table-of-contents)
 
 <!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
@@ -89,21 +126,9 @@ To use this project, first clone the repo on your device using the command below
 
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
-# Bill-of-material
-![ESP32](https://github.com/contraprisma/weatherstation/blob/main/doc/images/esp32.png "Wemos D32 V1.0.0 - ESP32")
-![OLED Display](https://github.com/contraprisma/weatherstation/blob/main/doc/images/display.png "0.96" OLED Display module")
-![DHT22 sensor](https://github.com/contraprisma/weatherstation/blob/main/doc/images/dht22.png "DHT22 sensor")
-![10KΩ Metalfilm Resistor](https://github.com/contraprisma/weatherstation/blob/main/doc/images/10k.png "10KΩ Metalfilm Resistor")
-![Male-Male cables](https://github.com/contraprisma/weatherstation/blob/main/doc/images/cables.png "Male-Male 10cm cables")
-![Breadboard](https://github.com/contraprisma/weatherstation/blob/main/doc/images/breadboard.png "Breadboard 400 point")
-[(Back to top)](#table-of-contents)
-
-<!--# Usage
-[(Back to top)](#table-of-contents)-->
-
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
-
 # Development
+TODO: Add some more info here....DO WE ADD DEV INSTRUCTIONS HERE - about code workings?
+
 [(Back to top)](#table-of-contents)
 
 <!-- This is the place where you give instructions to developers on how to modify the code.
