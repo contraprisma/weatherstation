@@ -92,12 +92,10 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 # Build
 Follow the steps to create the build for the Weatherstation on the Breadboard.
-Place the Wemos D32 V1.0.0 - ESP32 onto the breadboard in the middle on the left side with the power usb connector on teh left side.
+Place the Wemos D32 V1.0.0 - ESP32 onto the breadboard. Space the ESP placement on the left in between the power connector lines with the power usb connector on the left side.
 Insert the 0.96 OLED Display module into the breadboard next to the ESP32 on the right side.
-Next insert the DHT22 sensor into teh breadboard on the right of the display.
-Follow the instrauctions to connect the components up with the male-male cables.
-
-TODO: Add some more info here....
+Next insert the DHT22 sensor into the breadboard on the right of the display.
+Follow the color coded instructions connecting the components up with male-male cables.
 
 ![Breadboard build](./doc/images/breadboard-build.jpg "Breadboard build")
 
@@ -106,7 +104,14 @@ TODO: Add some more info here....
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Installation
-TODO: Add some more info here....
+After connecting the compenents on the breadboard correctly following the color coded diagram, connect the ESP32 to your computer with a micro usb cable. Open VSCode and save a new workspace. Clone the Github project into a folder on your comoputer. Add the folder to the new workspace and save the workspace again. Now you ready to start working with your codebase.
+
+On the left side of VSCode select Extensions and search for PlatformIO IDE - Install the extension.
+The main source code is located inside the src folder inside the esp32-dht22-ldr folder.
+The two main files used is main.cpp and secrets.h.
+
+Main.cpp contains all the sensor code functions.
+Secrets.h contain user variables for AWS certificates and Wifi details.
 
 [(Back to top)](#table-of-contents)
 
