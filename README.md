@@ -104,10 +104,10 @@ Follow the color coded instructions connecting the components up with male-male 
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 # Installation
-After connecting the compenents on the breadboard correctly following the color coded diagram, connect the ESP32 to your computer with a micro usb cable. Open VSCode and save a new workspace. Clone the Github project into a folder on your comoputer. Add the folder to the new workspace and save the workspace again. Now you ready to start working with your codebase.
+After connecting the components on the breadboard following the color coded diagram, connect the ESP32 to your computer with a micro usb cable. Open VSCode and save a new workspace. Clone the Github project into a folder on your computer. Add the folder to the new workspace and save the workspace again. Now you ready to start working with your codebase.
 
 On the left side of VSCode select Extensions and search for PlatformIO IDE - Install the extension.
-The main source code is located inside the src folder inside the esp32-dht22-ldr folder.
+The main source code is located inside the esp32-dht22-ldr\src folder.
 The two main files used is main.cpp and secrets.h.
 
 Main.cpp contains all the sensor code functions.
