@@ -129,7 +129,18 @@ To use this project, first clone the repo on your device using the command below
 ```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
 
 # Development
-TODO: Add some more info here....DO WE ADD DEV INSTRUCTIONS HERE - about code workings?
+For the section below, you will need an AWS Console login. Once you logged in, follow the steps below to create your device certificate that will be used to verify and authentic your 
+device. Each device in the field needs it very own unique certificate 
+
+![Step 1](./doc/images/aws-iot-cert-setup-1.png "Navigate to the AWS IoT certifcate section under [Managed] -> [Security] -> [Certificates]")
+
+![Step 2](./doc/images/aws-iot-cert-setup-2.png "On far right click the drop down [Add certificate] and choose [Create certificate]")
+
+![Step 3](./doc/images/aws-iot-cert-setup-3.png "Click [Create] at the bottom of the screen")
+
+![Step 4](./doc/images/aws-iot-cert-setup-4.png "Download all the certificates")
+
+![Step 5](./doc/images/aws-iot-cert-setup-5.png "Use the certificates in your code to update the secrets.h file")
 
 [(Back to top)](#table-of-contents)
 
